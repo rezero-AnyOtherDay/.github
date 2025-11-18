@@ -1,4 +1,5 @@
 ## Live Prototype
+서비스 흐름과 UI를 바로 체험해보세요.
 https://anyotherday.vercel.app/landing
 
 ## 프로젝트 소개
