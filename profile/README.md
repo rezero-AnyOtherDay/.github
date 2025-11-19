@@ -2,6 +2,11 @@
 서비스 흐름과 UI를 바로 체험해보세요.
 https://anyotherday.vercel.app/landing
 
+## 서비스 기획서
+[서비스 기획서 PDF](https://github.com/rezero-AnyOtherDay/.github/blob/main/[제로부터%20시작하는%20돌봄생활]2025년_새싹_해커톤_AI_서비스_기획서.pdf)
+
+
+
 ## 프로젝트 소개
 
 ![slide1](../ppt1.jpg)
