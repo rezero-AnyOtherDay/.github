@@ -11,7 +11,7 @@ https://anyotherday.vercel.app/landing
 
 ![slide1](../ppt1.jpg)
 ![slide2](../ppt2.jpg)
-![slide3](.../ppt3.jpg)
+![slide3](../ppt3.jpg)
 ![slide4](../ppt4.jpg)
 ![slide5](../ppt5.jpg)
 ![slide6](../ppt6.jpg)
